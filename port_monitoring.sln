@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.34902.100
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "port_monitoring", "port_monitoring\port_monitoring.pyproj", "{BDADE59A-796D-4E0B-907E-45BAAA4386EB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Projektmappenelemente", "Projektmappenelemente", "{4E2F6868-E22F-4166-A136-2B3E43C7D30A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDADE59A-796D-4E0B-907E-45BAAA4386EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDADE59A-796D-4E0B-907E-45BAAA4386EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {191C4A92-4BAF-445E-99B8-0A3F16339540}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,23 @@
+Neues Modell erstellt.
+2024-05-26 14:28:34: Port 1110 auf 192.168.178.57 ist geschlossen
+2024-05-26 14:28:36: Port 1111 auf 192.168.178.57 ist geschlossen
+2024-05-26 14:28:38: Port 1112 auf 192.168.178.57 ist geschlossen
+2024-05-26 14:28:40: Port 1113 auf 192.168.178.57 ist geschlossen
+2024-05-26 14:28:42: Port 1114 auf 192.168.178.57 ist geschlossen
+2024-05-26 14:28:44: Port 1115 auf 192.168.178.57 ist geschlossen
+2024-05-26 14:28:46: Port 1116 auf 192.168.178.57 ist geschlossen
+2024-05-26 14:28:48: Port 1117 auf 192.168.178.57 ist geschlossen
+2024-05-26 14:28:50: Port 1118 auf 192.168.178.57 ist geschlossen
+2024-05-26 14:28:52: Port 1119 auf 192.168.178.57 ist geschlossen
+2024-05-26 14:28:54: Port 1120 auf 192.168.178.57 ist geschlossen
+2024-05-26 14:28:56: Port 1121 auf 192.168.178.57 ist geschlossen
+2024-05-26 14:28:58: Port 1122 auf 192.168.178.57 ist geschlossen
+2024-05-26 14:29:00: Port 1123 auf 192.168.178.57 ist geschlossen
+2024-05-26 14:29:02: Port 1124 auf 192.168.178.57 ist geschlossen
+2024-05-26 14:29:04: Port 1125 auf 192.168.178.57 ist geschlossen
+2024-05-26 14:29:06: Port 1126 auf 192.168.178.57 ist geschlossen
+2024-05-26 14:29:09: Port 1127 auf 192.168.178.57 ist geschlossen
+2024-05-26 14:29:11: Port 1128 auf 192.168.178.57 ist geschlossen
+2024-05-26 14:29:13: Port 1129 auf 192.168.178.57 ist geschlossen
+Modellgenauigkeit: 1.0
+Modell gespeichert unter: port_model.pkl
