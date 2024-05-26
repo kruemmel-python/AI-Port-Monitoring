@@ -1,4 +1,4 @@
-# Modell für Hafenüberwachung und Klassifizierung
+# Portüberwachungs- und Klassifizierungsmodell
 
 ## Überblick
 Dieses Repository enthält ein Python-Skript zur Überwachung von Netzwerk-Ports auf einem entfernten Host und zum Trainieren eines maschinellen Lernmodells zur Klassifizierung des Status dieser Ports. Das verwendete Modell ist ein `RandomForestClassifier` aus `sklearn`.
