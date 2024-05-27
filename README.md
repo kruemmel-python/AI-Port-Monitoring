@@ -22,7 +22,6 @@ Installieren Sie die benötigten Pakete mit pip:
 ``sh
 pip install -r anforderungen.txt
 
-Übersetzt mit DeepL.com (kostenlose Version)
 
 
 
